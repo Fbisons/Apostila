@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Apostila\Apostila\bin\Debug\Apostila.exe.config
+C:\Users\User\source\repos\Apostila\Apostila\bin\Debug\Apostila.exe
+C:\Users\User\source\repos\Apostila\Apostila\bin\Debug\Apostila.pdb
+C:\Users\User\source\repos\Apostila\Apostila\obj\Debug\Apostila.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Apostila\Apostila\obj\Debug\Apostila.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Apostila\Apostila\obj\Debug\Apostila.exe
+C:\Users\User\source\repos\Apostila\Apostila\obj\Debug\Apostila.pdb
